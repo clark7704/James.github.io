@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button id="btn">添加</button>
+
+<ul id="allLi">
+    <li>
+        <p>00000</p>
+    </li>
+    <li>111</li>
+    <li>222</li>
+    <li>333</li>
+</ul>
+<script>
+    var addBtn = document.getElementById("btn"),
+//            demo = 3,
+            allLi = document.getElementById("allLi");
+
+    //////////方法一////////////////
+    allLi.addEventListener("mouseover", function (e) {
+        var ev = e || window.event,
+                target = ev.target || ev.srcElement;
+        if (target.tagName.toLowerCase() === "li") {
+            target.style.backgroundColor = "green";
+        }
+    });
+    allLi.addEventListener("mouseout", function (e) {
+        var ev = e || window.event,
+                target = ev.target || ev.srcElement;
+        if (target.tagName.toLowerCase() === "li") {
+            target.style.backgroundColor = "";
+        }
+    });
+
+
+    /////// ///方法二////////////////
+    //    allLi.onmouseover = function (e) {
+    //        var ev = e || window.event,
+    //                target = ev.target || ev.srcElement;
+    //        if (target.tagName.toLowerCase() === "li") {
+    //            target.style.backgroundColor = "green";
+    //        }
+    //    };
+    //    allLi.onmouseout = function (e) {
+    //        var ev = e || window.event,
+    //                target = ev.target || ev.srcElement;
+    //        if (target.tagName.toLowerCase() === "li") {
+    //            target.style.backgroundColor = "";
+    //        }
+    //    };
+
+    addBtn.onclick = function () {
+        var newLi = document.createElement("li");
+//        demo++;
+        newLi.innerHTML = "111";
+        allLi.appendChild(newLi);
+    }
+</script>
+</body>
+</html>
