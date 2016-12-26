@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body {
+    padding-top: 62px;
+}
+/*处理IE8中的a标签虚线框*/
+a:focus {
+    outline: none\9;
+}
+/*导航样式开始*/
+.navBg {
+    background-color: #185e84;
+}
+
+.navBg .icon-bar {
+    background-color: white;
+}
+
+.navMenu {
+    color: white;
+    font-size: 18px;
+}
+
+/*导航样式结束*/
+/*插件修改开始*/
+.layui-nav .layui-nav-item, .layui-tab-title li {
+    display: block;
+}
+
+.layui-nav {
+    background: none;
+}
+
+/*插件修改结束*/
+@media screen and (min-width: 768px) {
+    .layui-nav .layui-nav-item, .layui-tab-title li {
+        display: inline-block;
+    }
+
+    .navBg {
+        height: 62px;
+    }
+}
+
