@@ -1,6 +1,7 @@
 /**
  * Created by rimi on 2016/12/23.
  */
+
 //加载layui导航模块
 layui.use('element', function(){
     var element = layui.element();
@@ -8,8 +9,9 @@ layui.use('element', function(){
         console.log(data);
     });
 });
-//
-$(".layui-nav-item a").click(function () {      //xs页面时点击导航内容自动回收
+
+//xs页面时点击导航内容自动回收
+$(".layui-nav-item a").click(function () {
     if ($(window).width() < 768) {
         $('.bs-js-navbar-scrollspy').collapse('hide')
     }

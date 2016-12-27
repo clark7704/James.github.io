@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="dist/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="dist/font/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="dist/font/narnfontregular/stylesheet.css">
     <!--[if lte IE 7]>
     <script src="dist/js/json2.js"></script><![endif]-->
     <!--[if lt IE 9]>
@@ -26,7 +27,7 @@
 <div class="navBg navbar-fixed-top">
     <nav class="navbar container" id="nav">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle " data-toggle="collapse"
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
                     data-target=".bs-js-navbar-scrollspy">
                 <span class="navMenu">MENU</span>
                 <div style="display: inline-block">
@@ -40,19 +41,13 @@
         <div class="collapse navbar-collapse bs-js-navbar-scrollspy" lay-filter="nav">
             <ul class="layui-nav" role="tablist">
                 <li class="layui-nav-item layui-this">
-                    <a href="#home">首页</a>
+                    <a href="#home">HOME</a>
                 </li>
                 <li class="layui-nav-item">
-                    <a href="#">个人信息</a>
+                    <a href="#">Me</a>
                 </li>
                 <li class="layui-nav-item">
-                    <a href="#">工作经验</a>
-                </li>
-                <li class="layui-nav-item">
-                    <a href="#">求职意向</a>
-                </li>
-                <li class="layui-nav-item">
-                    <a href="#">随便写写</a>
+                    <a href="#">More to say</a>
                 </li>
             </ul>
         </div>
@@ -62,9 +57,18 @@
 <!--mainBoxStart-->
 <article>
     <section class="container" id="home">
-        <div>
-            <img src="image/head.jpg" alt="图片加载中" class="img-circle">
-            <p></p>
+        <div class="headBanner">
+            <img src="image/head.png" alt="图片加载中" class="img-circle">
+            <p class="fristBannerTitle">Hello..!</p>
+            <p>My name is James.Wang.</p>
+        </div>
+    </section>
+    <section>
+        <div id="experience">
+
+        </div>
+        <div id="skill">
+            
         </div>
     </section>
 </article>
@@ -74,6 +78,7 @@
 
 </footer>
 <!--footerEnd-->
+<script type="text/javascript" src="https://cdn.webfont.youziku.com/wwwroot/js/wf/youziku.api.min.js"></script>
 <script src="dist/js/angularV1.2.9.min.js"></script>
 <script src="dist/js/angular-route.min.js"></script>
 <script src="dist/js/jquery.min.js"></script>

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'narnfontregular';
+    src: url('narnfont_by_juan_casco-webfont.eot');
+    src: url('narnfont_by_juan_casco-webfont.eot?#iefix') format('embedded-opentype'),
+         url('narnfont_by_juan_casco-webfont.woff2') format('woff2'),
+         url('narnfont_by_juan_casco-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

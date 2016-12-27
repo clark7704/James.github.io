@@ -1,6 +1,9 @@
 @charset "UTF-8";
+*{
+    font-family: "微软雅黑","Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 body {
-    padding-top: 62px;
+    padding-top: 65px;
 }
 /*处理IE8中的a标签虚线框*/
 a:focus {
@@ -22,8 +25,20 @@ a:focus {
     color: white;
     font-size: 18px;
 }
-
 /*导航样式结束*/
+/*顶部banner样式开始*/
+.headBanner{
+    padding: 50px 0;
+    text-align: center;
+}
+.headBanner img{
+    width: 160px;
+}
+.headBanner .fristBannerTitle{
+    font-family: narnfontregular;
+    font-size: 32px;
+}
+/*顶部banner样式结束*/
 /*插件修改开始*/
 .layui-nav .layui-nav-item, .layui-tab-title li {
     display: block;
