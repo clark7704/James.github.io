@@ -9,14 +9,14 @@
     <meta name="description" content="James.Wang的简历">
     <meta name="author" content="James.Wang">
     <link rel="stylesheet" href="dist/layui/css/layui.css">
-    <link rel="stylesheet" href="http://apps.bdimg.com/libs/bootstrap/3.3.4/css/bootstrap.min.css">
-    <link rel="stylesheet" href="http://apps.bdimg.com/libs/fontawesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="dist/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="dist/font/font-awesome-4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/index.css">
     <!--[if lte IE 7]>
     <script src="dist/js/json2.js"></script><![endif]-->
     <!--[if lt IE 9]>
-    <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-    <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <script src="dist/js/html5shiv.min.js"></script>
+    <script src="dist/js/respond.min.js"></script>
     <![endif]-->
     <!--<link rel="icon" href="image/earth.ico" type="image/x-icon">-->
 
@@ -40,7 +40,7 @@
         <div class="collapse navbar-collapse bs-js-navbar-scrollspy" lay-filter="nav">
             <ul class="layui-nav" role="tablist">
                 <li class="layui-nav-item layui-this">
-                    <a href="#">首页</a>
+                    <a href="#home">首页</a>
                 </li>
                 <li class="layui-nav-item">
                     <a href="#">个人信息</a>
@@ -61,8 +61,11 @@
 <!--navEnd-->
 <!--mainBoxStart-->
 <article>
-    <section class="container">
-        <img src="image/head.jpg" alt="图片加载中" class="img-thumbnail img-responsive">
+    <section class="container" id="home">
+        <div>
+            <img src="image/head.jpg" alt="图片加载中" class="img-circle">
+            <p></p>
+        </div>
     </section>
 </article>
 <!--mainBoxEnd-->
@@ -71,11 +74,11 @@
 
 </footer>
 <!--footerEnd-->
-<script src="http://apps.bdimg.com/libs/angular.js/1.2.9/angular.min.js"></script>
-<script src="http://apps.bdimg.com/libs/angular.js/1.2.9/angular-route.min.js"></script>
-<script src="http://apps.bdimg.com/libs/jquery/1.11.1/jquery.min.js"></script>
-<script src="http://apps.bdimg.com/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
-<script src="http://apps.bdimg.com/libs/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="dist/js/angularV1.2.9.min.js"></script>
+<script src="dist/js/angular-route.min.js"></script>
+<script src="dist/js/jquery.min.js"></script>
+<script src="dist/js/jquery-ui.min.js"></script>
+<script src="dist/bootstrap/js/bootstrap.min.js"></script>
 <script src="dist/layui/layui.js"></script>
 <script src="js/index.js"></script>
 <script src="js/angular.js"></script>
