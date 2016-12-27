@@ -10,7 +10,7 @@ layui.use('element', function(){
 });
 //
 $(".layui-nav-item a").click(function () {      //xs页面时点击导航内容自动回收
-    if ($(window).width() < 751) {
+    if ($(window).width() < 768) {
         $('.bs-js-navbar-scrollspy').collapse('hide')
     }
 });
