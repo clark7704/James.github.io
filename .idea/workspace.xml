@@ -30,8 +30,13 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state vertical-scroll-proportion="0.71926606">
                   <caret line="75" column="34" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="34" />
+=======
+                <state vertical-scroll-proportion="0.8161209">
+                  <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+>>>>>>> origin/gh-pages
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -50,6 +55,7 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
                 <state vertical-scroll-proportion="1.56621">
                   <caret line="161" column="24" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
                   <folding>
@@ -66,6 +72,38 @@
                     <element signature="e#711#745#0" expanded="false" />
                     <element signature="e#759#807#0" expanded="false" />
                     <element signature="e#825#846#0" expanded="false" />
+=======
+                <state vertical-scroll-proportion="4.2846346">
+                  <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#20#96#0" expanded="false" />
+                    <element signature="e#103#129#0" expanded="false" />
+                    <element signature="e#141#158#0" expanded="false" />
+                    <element signature="e#176#293#0" expanded="false" />
+                    <element signature="e#299#319#0" expanded="false" />
+                    <element signature="e#325#346#0" expanded="false" />
+                    <element signature="e#374#396#0" expanded="false" />
+                    <element signature="e#407#444#0" expanded="false" />
+                    <element signature="e#465#490#0" expanded="false" />
+                    <element signature="e#499#533#0" expanded="false" />
+                    <element signature="e#552#584#0" expanded="false" />
+                    <element signature="e#595#637#0" expanded="false" />
+                    <element signature="e#679#713#0" expanded="false" />
+                    <element signature="e#727#775#0" expanded="false" />
+                    <element signature="e#793#814#0" expanded="false" />
+                    <element signature="e#846#870#0" expanded="false" />
+                    <element signature="e#924#952#0" expanded="false" />
+                    <element signature="e#968#1337#0" expanded="false" />
+                    <element signature="e#1358#1401#0" expanded="false" />
+                    <element signature="e#1420#1546#0" expanded="false" />
+                    <element signature="e#1563#1689#0" expanded="false" />
+                    <element signature="e#1707#1833#0" expanded="false" />
+                    <element signature="e#1853#1979#0" expanded="false" />
+                    <element signature="e#1998#2124#0" expanded="false" />
+                    <element signature="e#2184#2207#0" expanded="false" />
+                    <element signature="e#2220#2245#0" expanded="false" />
+                    <element signature="e#2274#2498#0" expanded="false" />
+>>>>>>> origin/gh-pages
                   </folding>
                 </state>
               </provider>
@@ -161,6 +199,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
+=======
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="James.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Jame" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="James.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+>>>>>>> origin/gh-pages
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -307,6 +380,7 @@
           <folding>
             <element signature="e#20#96#0" expanded="false" />
             <element signature="e#103#129#0" expanded="false" />
+<<<<<<< HEAD
             <element signature="e#135#158#0" expanded="false" />
             <element signature="e#170#187#0" expanded="false" />
             <element signature="e#205#322#0" expanded="false" />
@@ -318,6 +392,33 @@
             <element signature="e#711#745#0" expanded="false" />
             <element signature="e#759#807#0" expanded="false" />
             <element signature="e#825#846#0" expanded="false" />
+=======
+            <element signature="e#141#158#0" expanded="false" />
+            <element signature="e#176#293#0" expanded="false" />
+            <element signature="e#299#319#0" expanded="false" />
+            <element signature="e#325#346#0" expanded="false" />
+            <element signature="e#374#396#0" expanded="false" />
+            <element signature="e#407#444#0" expanded="false" />
+            <element signature="e#465#490#0" expanded="false" />
+            <element signature="e#499#533#0" expanded="false" />
+            <element signature="e#552#584#0" expanded="false" />
+            <element signature="e#595#637#0" expanded="false" />
+            <element signature="e#679#713#0" expanded="false" />
+            <element signature="e#727#775#0" expanded="false" />
+            <element signature="e#793#814#0" expanded="false" />
+            <element signature="e#846#870#0" expanded="false" />
+            <element signature="e#924#952#0" expanded="false" />
+            <element signature="e#968#1337#0" expanded="false" />
+            <element signature="e#1358#1401#0" expanded="false" />
+            <element signature="e#1420#1546#0" expanded="false" />
+            <element signature="e#1563#1689#0" expanded="false" />
+            <element signature="e#1707#1833#0" expanded="false" />
+            <element signature="e#1853#1979#0" expanded="false" />
+            <element signature="e#1998#2124#0" expanded="false" />
+            <element signature="e#2184#2207#0" expanded="false" />
+            <element signature="e#2220#2245#0" expanded="false" />
+            <element signature="e#2274#2498#0" expanded="false" />
+>>>>>>> origin/gh-pages
           </folding>
         </state>
       </provider>
@@ -351,6 +452,7 @@
           <folding>
             <element signature="e#20#96#0" expanded="false" />
             <element signature="e#103#129#0" expanded="false" />
+<<<<<<< HEAD
             <element signature="e#135#158#0" expanded="false" />
             <element signature="e#170#187#0" expanded="false" />
             <element signature="e#205#322#0" expanded="false" />
@@ -362,6 +464,33 @@
             <element signature="e#711#745#0" expanded="false" />
             <element signature="e#759#807#0" expanded="false" />
             <element signature="e#825#846#0" expanded="false" />
+=======
+            <element signature="e#141#158#0" expanded="false" />
+            <element signature="e#176#293#0" expanded="false" />
+            <element signature="e#299#319#0" expanded="false" />
+            <element signature="e#325#346#0" expanded="false" />
+            <element signature="e#374#396#0" expanded="false" />
+            <element signature="e#407#444#0" expanded="false" />
+            <element signature="e#465#490#0" expanded="false" />
+            <element signature="e#499#533#0" expanded="false" />
+            <element signature="e#552#584#0" expanded="false" />
+            <element signature="e#595#637#0" expanded="false" />
+            <element signature="e#679#713#0" expanded="false" />
+            <element signature="e#727#775#0" expanded="false" />
+            <element signature="e#793#814#0" expanded="false" />
+            <element signature="e#846#870#0" expanded="false" />
+            <element signature="e#924#952#0" expanded="false" />
+            <element signature="e#968#1337#0" expanded="false" />
+            <element signature="e#1358#1401#0" expanded="false" />
+            <element signature="e#1420#1546#0" expanded="false" />
+            <element signature="e#1563#1689#0" expanded="false" />
+            <element signature="e#1707#1833#0" expanded="false" />
+            <element signature="e#1853#1979#0" expanded="false" />
+            <element signature="e#1998#2124#0" expanded="false" />
+            <element signature="e#2184#2207#0" expanded="false" />
+            <element signature="e#2220#2245#0" expanded="false" />
+            <element signature="e#2274#2498#0" expanded="false" />
+>>>>>>> origin/gh-pages
           </folding>
         </state>
       </provider>
@@ -395,6 +524,7 @@
           <folding>
             <element signature="e#20#96#0" expanded="false" />
             <element signature="e#103#129#0" expanded="false" />
+<<<<<<< HEAD
             <element signature="e#135#158#0" expanded="false" />
             <element signature="e#170#187#0" expanded="false" />
             <element signature="e#205#322#0" expanded="false" />
@@ -406,6 +536,33 @@
             <element signature="e#711#745#0" expanded="false" />
             <element signature="e#759#807#0" expanded="false" />
             <element signature="e#825#846#0" expanded="false" />
+=======
+            <element signature="e#141#158#0" expanded="false" />
+            <element signature="e#176#293#0" expanded="false" />
+            <element signature="e#299#319#0" expanded="false" />
+            <element signature="e#325#346#0" expanded="false" />
+            <element signature="e#374#396#0" expanded="false" />
+            <element signature="e#407#444#0" expanded="false" />
+            <element signature="e#465#490#0" expanded="false" />
+            <element signature="e#499#533#0" expanded="false" />
+            <element signature="e#552#584#0" expanded="false" />
+            <element signature="e#595#637#0" expanded="false" />
+            <element signature="e#679#713#0" expanded="false" />
+            <element signature="e#727#775#0" expanded="false" />
+            <element signature="e#793#814#0" expanded="false" />
+            <element signature="e#846#870#0" expanded="false" />
+            <element signature="e#924#952#0" expanded="false" />
+            <element signature="e#968#1337#0" expanded="false" />
+            <element signature="e#1358#1401#0" expanded="false" />
+            <element signature="e#1420#1546#0" expanded="false" />
+            <element signature="e#1563#1689#0" expanded="false" />
+            <element signature="e#1707#1833#0" expanded="false" />
+            <element signature="e#1853#1979#0" expanded="false" />
+            <element signature="e#1998#2124#0" expanded="false" />
+            <element signature="e#2184#2207#0" expanded="false" />
+            <element signature="e#2220#2245#0" expanded="false" />
+            <element signature="e#2274#2498#0" expanded="false" />
+>>>>>>> origin/gh-pages
           </folding>
         </state>
       </provider>
@@ -439,6 +596,7 @@
           <folding>
             <element signature="e#20#96#0" expanded="false" />
             <element signature="e#103#129#0" expanded="false" />
+<<<<<<< HEAD
             <element signature="e#135#158#0" expanded="false" />
             <element signature="e#170#187#0" expanded="false" />
             <element signature="e#205#322#0" expanded="false" />
@@ -450,6 +608,33 @@
             <element signature="e#711#745#0" expanded="false" />
             <element signature="e#759#807#0" expanded="false" />
             <element signature="e#825#846#0" expanded="false" />
+=======
+            <element signature="e#141#158#0" expanded="false" />
+            <element signature="e#176#293#0" expanded="false" />
+            <element signature="e#299#319#0" expanded="false" />
+            <element signature="e#325#346#0" expanded="false" />
+            <element signature="e#374#396#0" expanded="false" />
+            <element signature="e#407#444#0" expanded="false" />
+            <element signature="e#465#490#0" expanded="false" />
+            <element signature="e#499#533#0" expanded="false" />
+            <element signature="e#552#584#0" expanded="false" />
+            <element signature="e#595#637#0" expanded="false" />
+            <element signature="e#679#713#0" expanded="false" />
+            <element signature="e#727#775#0" expanded="false" />
+            <element signature="e#793#814#0" expanded="false" />
+            <element signature="e#846#870#0" expanded="false" />
+            <element signature="e#924#952#0" expanded="false" />
+            <element signature="e#968#1337#0" expanded="false" />
+            <element signature="e#1358#1401#0" expanded="false" />
+            <element signature="e#1420#1546#0" expanded="false" />
+            <element signature="e#1563#1689#0" expanded="false" />
+            <element signature="e#1707#1833#0" expanded="false" />
+            <element signature="e#1853#1979#0" expanded="false" />
+            <element signature="e#1998#2124#0" expanded="false" />
+            <element signature="e#2184#2207#0" expanded="false" />
+            <element signature="e#2220#2245#0" expanded="false" />
+            <element signature="e#2274#2498#0" expanded="false" />
+>>>>>>> origin/gh-pages
           </folding>
         </state>
       </provider>
@@ -481,6 +666,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
+=======
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+>>>>>>> origin/gh-pages
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -490,7 +679,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/js/html5shiv.min.js">
+    <entry file="file://$PROJECT_DIR$/dist/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -547,8 +736,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/html5shiv.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18706697">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="1.56621">
           <caret line="161" column="24" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
           <folding>
@@ -565,6 +763,38 @@
             <element signature="e#711#745#0" expanded="false" />
             <element signature="e#759#807#0" expanded="false" />
             <element signature="e#825#846#0" expanded="false" />
+=======
+        <state vertical-scroll-proportion="4.2846346">
+          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding>
+            <element signature="e#20#96#0" expanded="false" />
+            <element signature="e#103#129#0" expanded="false" />
+            <element signature="e#141#158#0" expanded="false" />
+            <element signature="e#176#293#0" expanded="false" />
+            <element signature="e#299#319#0" expanded="false" />
+            <element signature="e#325#346#0" expanded="false" />
+            <element signature="e#374#396#0" expanded="false" />
+            <element signature="e#407#444#0" expanded="false" />
+            <element signature="e#465#490#0" expanded="false" />
+            <element signature="e#499#533#0" expanded="false" />
+            <element signature="e#552#584#0" expanded="false" />
+            <element signature="e#595#637#0" expanded="false" />
+            <element signature="e#679#713#0" expanded="false" />
+            <element signature="e#727#775#0" expanded="false" />
+            <element signature="e#793#814#0" expanded="false" />
+            <element signature="e#846#870#0" expanded="false" />
+            <element signature="e#924#952#0" expanded="false" />
+            <element signature="e#968#1337#0" expanded="false" />
+            <element signature="e#1358#1401#0" expanded="false" />
+            <element signature="e#1420#1546#0" expanded="false" />
+            <element signature="e#1563#1689#0" expanded="false" />
+            <element signature="e#1707#1833#0" expanded="false" />
+            <element signature="e#1853#1979#0" expanded="false" />
+            <element signature="e#1998#2124#0" expanded="false" />
+            <element signature="e#2184#2207#0" expanded="false" />
+            <element signature="e#2220#2245#0" expanded="false" />
+            <element signature="e#2274#2498#0" expanded="false" />
+>>>>>>> origin/gh-pages
           </folding>
         </state>
       </provider>
@@ -606,8 +836,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.71926606">
           <caret line="75" column="34" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="34" />
+=======
+        <state vertical-scroll-proportion="0.8161209">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+>>>>>>> origin/gh-pages
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
