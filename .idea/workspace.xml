@@ -4,7 +4,6 @@
     <list default="true" id="1885fa94-2f36-421e-9aa2-4c9602dcb8d1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Jame.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,19 +23,14 @@
     <favorites_list name="Jame" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.69297296">
+    <splitter split-orientation="vertical" split-proportion="0.5524324">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-                <state vertical-scroll-proportion="0.71926606">
-                  <caret line="75" column="34" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="34" />
-=======
-                <state vertical-scroll-proportion="0.8161209">
-                  <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
->>>>>>> origin/gh-pages
+                <state vertical-scroll-proportion="0.81123596">
+                  <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -55,56 +49,9 @@
           <file leaf-file-name="index.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-                <state vertical-scroll-proportion="1.56621">
-                  <caret line="161" column="24" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
-                  <folding>
-                    <element signature="e#20#96#0" expanded="false" />
-                    <element signature="e#103#129#0" expanded="false" />
-                    <element signature="e#135#158#0" expanded="false" />
-                    <element signature="e#170#187#0" expanded="false" />
-                    <element signature="e#205#322#0" expanded="false" />
-                    <element signature="e#328#348#0" expanded="false" />
-                    <element signature="e#497#522#0" expanded="false" />
-                    <element signature="e#531#565#0" expanded="false" />
-                    <element signature="e#584#616#0" expanded="false" />
-                    <element signature="e#627#669#0" expanded="false" />
-                    <element signature="e#711#745#0" expanded="false" />
-                    <element signature="e#759#807#0" expanded="false" />
-                    <element signature="e#825#846#0" expanded="false" />
-=======
-                <state vertical-scroll-proportion="4.2846346">
-                  <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#20#96#0" expanded="false" />
-                    <element signature="e#103#129#0" expanded="false" />
-                    <element signature="e#141#158#0" expanded="false" />
-                    <element signature="e#176#293#0" expanded="false" />
-                    <element signature="e#299#319#0" expanded="false" />
-                    <element signature="e#325#346#0" expanded="false" />
-                    <element signature="e#374#396#0" expanded="false" />
-                    <element signature="e#407#444#0" expanded="false" />
-                    <element signature="e#465#490#0" expanded="false" />
-                    <element signature="e#499#533#0" expanded="false" />
-                    <element signature="e#552#584#0" expanded="false" />
-                    <element signature="e#595#637#0" expanded="false" />
-                    <element signature="e#679#713#0" expanded="false" />
-                    <element signature="e#727#775#0" expanded="false" />
-                    <element signature="e#793#814#0" expanded="false" />
-                    <element signature="e#846#870#0" expanded="false" />
-                    <element signature="e#924#952#0" expanded="false" />
-                    <element signature="e#968#1337#0" expanded="false" />
-                    <element signature="e#1358#1401#0" expanded="false" />
-                    <element signature="e#1420#1546#0" expanded="false" />
-                    <element signature="e#1563#1689#0" expanded="false" />
-                    <element signature="e#1707#1833#0" expanded="false" />
-                    <element signature="e#1853#1979#0" expanded="false" />
-                    <element signature="e#1998#2124#0" expanded="false" />
-                    <element signature="e#2184#2207#0" expanded="false" />
-                    <element signature="e#2220#2245#0" expanded="false" />
-                    <element signature="e#2274#2498#0" expanded="false" />
->>>>>>> origin/gh-pages
-                  </folding>
+                <state vertical-scroll-proportion="0.8739255">
+                  <caret line="145" column="1" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -139,9 +86,9 @@
         <option value="$PROJECT_DIR$/dist/js/html5shiv.min.js" />
         <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$USER_HOME$/Downloads/webfontkit-20161227-062641/stylesheet.css" />
+        <option value="$PROJECT_DIR$/dist/bootstrap/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/dist/bootstrap/css/bootstrap.css" />
       </list>
     </option>
   </component>
@@ -181,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,45 +147,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-<<<<<<< HEAD
-=======
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="James.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jame" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="James.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
->>>>>>> origin/gh-pages
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -246,7 +158,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RIMI - 11/Project3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -322,7 +234,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21232876" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -362,6 +274,96 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="34" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="87" column="45" selection-start-line="87" selection-start-column="45" selection-end-line="87" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -377,49 +379,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#20#96#0" expanded="false" />
-            <element signature="e#103#129#0" expanded="false" />
-<<<<<<< HEAD
-            <element signature="e#135#158#0" expanded="false" />
-            <element signature="e#170#187#0" expanded="false" />
-            <element signature="e#205#322#0" expanded="false" />
-            <element signature="e#328#348#0" expanded="false" />
-            <element signature="e#497#522#0" expanded="false" />
-            <element signature="e#531#565#0" expanded="false" />
-            <element signature="e#584#616#0" expanded="false" />
-            <element signature="e#627#669#0" expanded="false" />
-            <element signature="e#711#745#0" expanded="false" />
-            <element signature="e#759#807#0" expanded="false" />
-            <element signature="e#825#846#0" expanded="false" />
-=======
-            <element signature="e#141#158#0" expanded="false" />
-            <element signature="e#176#293#0" expanded="false" />
-            <element signature="e#299#319#0" expanded="false" />
-            <element signature="e#325#346#0" expanded="false" />
-            <element signature="e#374#396#0" expanded="false" />
-            <element signature="e#407#444#0" expanded="false" />
-            <element signature="e#465#490#0" expanded="false" />
-            <element signature="e#499#533#0" expanded="false" />
-            <element signature="e#552#584#0" expanded="false" />
-            <element signature="e#595#637#0" expanded="false" />
-            <element signature="e#679#713#0" expanded="false" />
-            <element signature="e#727#775#0" expanded="false" />
-            <element signature="e#793#814#0" expanded="false" />
-            <element signature="e#846#870#0" expanded="false" />
-            <element signature="e#924#952#0" expanded="false" />
-            <element signature="e#968#1337#0" expanded="false" />
-            <element signature="e#1358#1401#0" expanded="false" />
-            <element signature="e#1420#1546#0" expanded="false" />
-            <element signature="e#1563#1689#0" expanded="false" />
-            <element signature="e#1707#1833#0" expanded="false" />
-            <element signature="e#1853#1979#0" expanded="false" />
-            <element signature="e#1998#2124#0" expanded="false" />
-            <element signature="e#2184#2207#0" expanded="false" />
-            <element signature="e#2220#2245#0" expanded="false" />
-            <element signature="e#2274#2498#0" expanded="false" />
->>>>>>> origin/gh-pages
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -449,49 +409,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#20#96#0" expanded="false" />
-            <element signature="e#103#129#0" expanded="false" />
-<<<<<<< HEAD
-            <element signature="e#135#158#0" expanded="false" />
-            <element signature="e#170#187#0" expanded="false" />
-            <element signature="e#205#322#0" expanded="false" />
-            <element signature="e#328#348#0" expanded="false" />
-            <element signature="e#497#522#0" expanded="false" />
-            <element signature="e#531#565#0" expanded="false" />
-            <element signature="e#584#616#0" expanded="false" />
-            <element signature="e#627#669#0" expanded="false" />
-            <element signature="e#711#745#0" expanded="false" />
-            <element signature="e#759#807#0" expanded="false" />
-            <element signature="e#825#846#0" expanded="false" />
-=======
-            <element signature="e#141#158#0" expanded="false" />
-            <element signature="e#176#293#0" expanded="false" />
-            <element signature="e#299#319#0" expanded="false" />
-            <element signature="e#325#346#0" expanded="false" />
-            <element signature="e#374#396#0" expanded="false" />
-            <element signature="e#407#444#0" expanded="false" />
-            <element signature="e#465#490#0" expanded="false" />
-            <element signature="e#499#533#0" expanded="false" />
-            <element signature="e#552#584#0" expanded="false" />
-            <element signature="e#595#637#0" expanded="false" />
-            <element signature="e#679#713#0" expanded="false" />
-            <element signature="e#727#775#0" expanded="false" />
-            <element signature="e#793#814#0" expanded="false" />
-            <element signature="e#846#870#0" expanded="false" />
-            <element signature="e#924#952#0" expanded="false" />
-            <element signature="e#968#1337#0" expanded="false" />
-            <element signature="e#1358#1401#0" expanded="false" />
-            <element signature="e#1420#1546#0" expanded="false" />
-            <element signature="e#1563#1689#0" expanded="false" />
-            <element signature="e#1707#1833#0" expanded="false" />
-            <element signature="e#1853#1979#0" expanded="false" />
-            <element signature="e#1998#2124#0" expanded="false" />
-            <element signature="e#2184#2207#0" expanded="false" />
-            <element signature="e#2220#2245#0" expanded="false" />
-            <element signature="e#2274#2498#0" expanded="false" />
->>>>>>> origin/gh-pages
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -521,49 +439,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#20#96#0" expanded="false" />
-            <element signature="e#103#129#0" expanded="false" />
-<<<<<<< HEAD
-            <element signature="e#135#158#0" expanded="false" />
-            <element signature="e#170#187#0" expanded="false" />
-            <element signature="e#205#322#0" expanded="false" />
-            <element signature="e#328#348#0" expanded="false" />
-            <element signature="e#497#522#0" expanded="false" />
-            <element signature="e#531#565#0" expanded="false" />
-            <element signature="e#584#616#0" expanded="false" />
-            <element signature="e#627#669#0" expanded="false" />
-            <element signature="e#711#745#0" expanded="false" />
-            <element signature="e#759#807#0" expanded="false" />
-            <element signature="e#825#846#0" expanded="false" />
-=======
-            <element signature="e#141#158#0" expanded="false" />
-            <element signature="e#176#293#0" expanded="false" />
-            <element signature="e#299#319#0" expanded="false" />
-            <element signature="e#325#346#0" expanded="false" />
-            <element signature="e#374#396#0" expanded="false" />
-            <element signature="e#407#444#0" expanded="false" />
-            <element signature="e#465#490#0" expanded="false" />
-            <element signature="e#499#533#0" expanded="false" />
-            <element signature="e#552#584#0" expanded="false" />
-            <element signature="e#595#637#0" expanded="false" />
-            <element signature="e#679#713#0" expanded="false" />
-            <element signature="e#727#775#0" expanded="false" />
-            <element signature="e#793#814#0" expanded="false" />
-            <element signature="e#846#870#0" expanded="false" />
-            <element signature="e#924#952#0" expanded="false" />
-            <element signature="e#968#1337#0" expanded="false" />
-            <element signature="e#1358#1401#0" expanded="false" />
-            <element signature="e#1420#1546#0" expanded="false" />
-            <element signature="e#1563#1689#0" expanded="false" />
-            <element signature="e#1707#1833#0" expanded="false" />
-            <element signature="e#1853#1979#0" expanded="false" />
-            <element signature="e#1998#2124#0" expanded="false" />
-            <element signature="e#2184#2207#0" expanded="false" />
-            <element signature="e#2220#2245#0" expanded="false" />
-            <element signature="e#2274#2498#0" expanded="false" />
->>>>>>> origin/gh-pages
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -593,49 +469,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#20#96#0" expanded="false" />
-            <element signature="e#103#129#0" expanded="false" />
-<<<<<<< HEAD
-            <element signature="e#135#158#0" expanded="false" />
-            <element signature="e#170#187#0" expanded="false" />
-            <element signature="e#205#322#0" expanded="false" />
-            <element signature="e#328#348#0" expanded="false" />
-            <element signature="e#497#522#0" expanded="false" />
-            <element signature="e#531#565#0" expanded="false" />
-            <element signature="e#584#616#0" expanded="false" />
-            <element signature="e#627#669#0" expanded="false" />
-            <element signature="e#711#745#0" expanded="false" />
-            <element signature="e#759#807#0" expanded="false" />
-            <element signature="e#825#846#0" expanded="false" />
-=======
-            <element signature="e#141#158#0" expanded="false" />
-            <element signature="e#176#293#0" expanded="false" />
-            <element signature="e#299#319#0" expanded="false" />
-            <element signature="e#325#346#0" expanded="false" />
-            <element signature="e#374#396#0" expanded="false" />
-            <element signature="e#407#444#0" expanded="false" />
-            <element signature="e#465#490#0" expanded="false" />
-            <element signature="e#499#533#0" expanded="false" />
-            <element signature="e#552#584#0" expanded="false" />
-            <element signature="e#595#637#0" expanded="false" />
-            <element signature="e#679#713#0" expanded="false" />
-            <element signature="e#727#775#0" expanded="false" />
-            <element signature="e#793#814#0" expanded="false" />
-            <element signature="e#846#870#0" expanded="false" />
-            <element signature="e#924#952#0" expanded="false" />
-            <element signature="e#968#1337#0" expanded="false" />
-            <element signature="e#1358#1401#0" expanded="false" />
-            <element signature="e#1420#1546#0" expanded="false" />
-            <element signature="e#1563#1689#0" expanded="false" />
-            <element signature="e#1707#1833#0" expanded="false" />
-            <element signature="e#1853#1979#0" expanded="false" />
-            <element signature="e#1998#2124#0" expanded="false" />
-            <element signature="e#2184#2207#0" expanded="false" />
-            <element signature="e#2220#2245#0" expanded="false" />
-            <element signature="e#2274#2498#0" expanded="false" />
->>>>>>> origin/gh-pages
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -666,10 +500,6 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-<<<<<<< HEAD
-=======
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
->>>>>>> origin/gh-pages
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -679,7 +509,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/bootstrap/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/dist/js/html5shiv.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -736,93 +566,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/js/html5shiv.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18706697">
-          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="1.56621">
-          <caret line="161" column="24" selection-start-line="161" selection-start-column="24" selection-end-line="161" selection-end-column="24" />
-          <folding>
-            <element signature="e#20#96#0" expanded="false" />
-            <element signature="e#103#129#0" expanded="false" />
-            <element signature="e#135#158#0" expanded="false" />
-            <element signature="e#170#187#0" expanded="false" />
-            <element signature="e#205#322#0" expanded="false" />
-            <element signature="e#328#348#0" expanded="false" />
-            <element signature="e#497#522#0" expanded="false" />
-            <element signature="e#531#565#0" expanded="false" />
-            <element signature="e#584#616#0" expanded="false" />
-            <element signature="e#627#669#0" expanded="false" />
-            <element signature="e#711#745#0" expanded="false" />
-            <element signature="e#759#807#0" expanded="false" />
-            <element signature="e#825#846#0" expanded="false" />
-=======
-        <state vertical-scroll-proportion="4.2846346">
-          <caret line="134" column="0" selection-start-line="134" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
-          <folding>
-            <element signature="e#20#96#0" expanded="false" />
-            <element signature="e#103#129#0" expanded="false" />
-            <element signature="e#141#158#0" expanded="false" />
-            <element signature="e#176#293#0" expanded="false" />
-            <element signature="e#299#319#0" expanded="false" />
-            <element signature="e#325#346#0" expanded="false" />
-            <element signature="e#374#396#0" expanded="false" />
-            <element signature="e#407#444#0" expanded="false" />
-            <element signature="e#465#490#0" expanded="false" />
-            <element signature="e#499#533#0" expanded="false" />
-            <element signature="e#552#584#0" expanded="false" />
-            <element signature="e#595#637#0" expanded="false" />
-            <element signature="e#679#713#0" expanded="false" />
-            <element signature="e#727#775#0" expanded="false" />
-            <element signature="e#793#814#0" expanded="false" />
-            <element signature="e#846#870#0" expanded="false" />
-            <element signature="e#924#952#0" expanded="false" />
-            <element signature="e#968#1337#0" expanded="false" />
-            <element signature="e#1358#1401#0" expanded="false" />
-            <element signature="e#1420#1546#0" expanded="false" />
-            <element signature="e#1563#1689#0" expanded="false" />
-            <element signature="e#1707#1833#0" expanded="false" />
-            <element signature="e#1853#1979#0" expanded="false" />
-            <element signature="e#1998#2124#0" expanded="false" />
-            <element signature="e#2184#2207#0" expanded="false" />
-            <element signature="e#2220#2245#0" expanded="false" />
-            <element signature="e#2274#2498#0" expanded="false" />
->>>>>>> origin/gh-pages
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/bootstrap/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.29616088">
           <caret line="4" column="315" selection-start-line="4" selection-start-column="315" selection-end-line="4" selection-end-column="315" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/bootstrap/css/bootstrap.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.5435205">
           <caret line="0" column="51" selection-start-line="0" selection-start-column="51" selection-end-line="0" selection-end-column="51" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/bootstrap/css/bootstrap-theme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.8034782">
           <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -830,19 +594,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.04695652">
           <caret line="2915" column="29" selection-start-line="2915" selection-start-column="29" selection-end-line="2915" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8739255">
+          <caret line="145" column="1" selection-start-line="145" selection-start-column="1" selection-end-line="145" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.71926606">
-          <caret line="75" column="34" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="34" />
-=======
-        <state vertical-scroll-proportion="0.8161209">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
->>>>>>> origin/gh-pages
+        <state vertical-scroll-proportion="0.81123596">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />

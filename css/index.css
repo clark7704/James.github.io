@@ -7,13 +7,11 @@ body {
     padding-top: 65px;
 }
 
-<<<<<<< HEAD
+
 img {
     border: 0 none;
 }
 
-=======
->>>>>>> origin/gh-pages
 .clearfix {
     *zoom: 1;
 }
@@ -37,11 +35,7 @@ img {
 
 /*处理IE8中的a标签虚线框*/
 a:focus {
-<<<<<<< HEAD
-    outline: none \9;
-=======
     outline: none;
->>>>>>> origin/gh-pages
 }
 
 .fontNar {
@@ -83,11 +77,7 @@ a:focus {
 }
 
 .headBanner .fristBannerTitle {
-<<<<<<< HEAD
     font-size: 36px;
-=======
-    font-size: 32px;
->>>>>>> origin/gh-pages
 }
 
 /*顶部banner样式结束*/
@@ -156,10 +146,6 @@ a:focus {
 }
 
 /*插件修改结束*/
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/gh-pages
 /*自定义多媒体查询开始*/
 @media screen and (min-width: 768px) {
     .layui-nav .layui-nav-item, .layui-tab-title li {
